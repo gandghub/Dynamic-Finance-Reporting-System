@@ -1,0 +1,13 @@
+{
+    "name": "dynamic-finance-reporting-system",
+    "version": "1.0.0",
+    "description": "A finance reporting system",
+    "main": "FinancialStatements.js",
+    "type": "module",
+    "scripts": {
+        "start": "node frontend/src/components/FinancialStatements.js"
+    },
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
